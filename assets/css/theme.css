@@ -9991,7 +9991,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 767.98px) {
     .hero-section {
-        text-align: center
+        text-align: left
     }
 
     .hero-section .figure-holder {
@@ -10011,7 +10011,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .hero-section {
-        text-align: center
+        text-align: left
     }
 
     .hero-section .figure-holder {
