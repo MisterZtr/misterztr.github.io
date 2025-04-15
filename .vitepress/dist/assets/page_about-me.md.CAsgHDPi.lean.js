@@ -1,0 +1,1 @@
+import{_ as t,a2 as r,a3 as e,a4 as a,a5 as s}from"./chunks/framework.DznJelOd.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"page/about-me.md","filePath":"page/about-me.md"}'),i={name:"page/about-me.md"},n=r("",3);function o(p,_,d,g,c,h){return n}const v=t(i,[["render",o]]);export{l as __pageData,v as default};

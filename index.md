@@ -20,10 +20,10 @@ hero:
 
 features:
 
-  - title: Курирование тем на 4pda
-    details: Перейти на форум
-    link: https://4pda.to/forum/index.php?showuser=7477308
-  - title: Разработчик GSI PixelOS
+  - title: Разработка GSI LineageOS
+    details: Узнать подробнее
+    link: https://github.com/MisterZtr/LineageOS_gsi
+  - title: Разработка GSI PixelOS
     details: Узнать подробнее
     link: https://github.com/MisterZtr/PixelOS_gsi
   - title: Мой стим
